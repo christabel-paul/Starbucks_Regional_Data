@@ -1,4 +1,4 @@
-# Starbucks_Regional_Data
+# Starbucks Regional Data
 Datasets:  
 [Starbucks_in_California](https://data.world/alice-c/starbucks)  
 [Starbucks in California-County Stats](https://data.world/alice-c/starbucks)  
