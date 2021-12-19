@@ -17,6 +17,6 @@ Datasets:
 
 
 ### Tableau Dashboards: 
-Starbucks Locations plotted accross a color-coded map of California Counties.
+Starbucks Locations plotted accross a color-coded map of California Counties.  
 [Locations vs County Population](https://public.tableau.com/views/StarbucksLocationsinCalifornia-Population/PopDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)  
 [Locations vs County Income](https://public.tableau.com/shared/Z8MYBKBPT?:display_count=n&:origin=viz_share_link)
